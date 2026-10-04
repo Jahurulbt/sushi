@@ -1,0 +1,456 @@
+@media(max-width:1199px){
+
+/*Here Section*/
+.here-title input{
+	padding: 10px  200px  10px 20px;
+	
+}
+
+
+}
+
+@media(max-width:991px){
+
+Header{
+	position: relative;
+	padding: 20px 0;
+}
+.navigation{
+	position: absolute;
+	background: #2e2e2e;
+	top: 100%;
+	left: 0;
+	width: 100%;
+	display: none;
+	padding: 20px 0;
+	opacity: .9;
+}
+.menu-icon{
+	display: block;
+	text-align: right;
+}
+.menu-icon i.fa-times{
+	display: none;
+}
+.navigation ul{
+	display: block;
+}
+.navigation ul li a{
+	display: block;
+	padding: 10px 20px;
+	color: #fff;
+	text-align: center;
+}
+
+/*menu Section*/
+.menu-photo-one p{
+	font-size: 25px;
+}
+.menu-photo-two p{
+	font-size: 25px;
+}
+.menu-photo-three p{
+	font-size: 25px;
+}
+
+/*statis Section*/
+.statis-circle-one{
+	margin:30px auto;
+}
+.statis-circle-one{
+	width: 230px;
+	height: 230px;
+	border: 5px solid #fd9191;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+/*kawa Section*/
+.kawa-text{
+	text-align: center;
+}
+.kawa-img img{
+	margin: auto;
+}
+
+/* Isotope section */
+.iso-product{
+	text-align: center;
+	width: 90%;
+	margin: 0 auto 50px;
+	color: #000;
+}
+.isotope-img img{
+	margin-bottom: 25px;
+	margin: 20px auto;
+}
+.isotope-btn button{
+	margin: 0 20px;
+	border: none;
+	padding: 10px;
+}
+
+
+
+
+
+
+
+
+}
+
+@media(max-width:768px){
+/* Cute Section */
+.cute-area{
+	padding: 40px 0 30px;
+}
+.cute-area p{
+	padding-top: 20px;
+}
+.cute-text h2{
+	position: relative;
+	z-index: 4;
+	font-size: 50px;
+}
+.cute-text{
+	text-align: center;
+}
+.cute-area a{
+	margin: 20px 0;
+	padding: 10px 40px;
+	border-radius: 50px;
+	font-size: 20px;
+}
+.cute-text p{
+	width: 100%;
+	padding-top: 20px;
+	font-size: 20px;
+}
+.cute-bg img{
+	display: none;
+}
+/* Susi section */
+.sushi-text{
+	padding-top: 20px;
+}
+.sushi-img img{
+	max-width: 80%;
+	border-radius: 50%;
+}
+.sushi-text h2{
+	font-size: 50px;
+}
+.sushi-text p{
+	font-size: 20px;
+	padding: 30px 0;
+}
+.sushi-text a{
+	padding: 10px 40px;
+	border-radius: 50px;
+	font-size: 20px;
+}
+.sushi-area{
+	padding: 50px 0;
+	position: relative;
+}
+/* Menu section */
+.menu-area{
+	padding: 50px 0;
+}
+.menu-title h2{
+	padding-bottom: 30px;
+	font-size: 50px;
+}
+.menu-photo-one h5,
+.menu-photo-two h5,
+.menu-photo-three h5{
+	padding: 20px 0;
+}
+.menu-bg-one img,
+.menu-bg-two img{
+	display: none;
+}
+
+/* Sushi Section */
+.sushi-area{
+	padding: 80px 0;
+}
+.sushi-text{
+	padding-top: 30px;
+}
+.sushi-text p{
+	padding: 20px 0;
+}
+.sushi-img{
+	width: 100%;
+}
+.sushi-img img{
+	margin: auto;
+}
+.sushi-text{
+	text-align: center;
+}
+.sushi-bg-one img{
+	width: 80%;
+}
+.sushi-bg-two img{
+	width: 100%;
+}
+.sushi-bg-three img{
+	width: 50%;
+}
+.sushi-bg-one,
+.sushi-bg-two,
+.sushi-bg-three,
+.sushi-bg-four{
+	display: none;
+}
+
+/*Statis Section*/
+.statis-area{
+	padding: 50px 0;
+}
+.statis-circle-one{
+	margin:20px auto;
+}
+.statis-title h2{
+	font-size: 50px;
+}
+.statis-title p{
+	padding: 20px 0;
+	font-size: 20px;
+}
+.statis-bg-one img,
+.statis-bg-two img,
+.statis-bg-three img,
+.statis-bg-four img{
+	display: none;
+}
+
+/* Kawa section */
+.kawa-area{
+	padding: 0 0 50px;
+}
+.kawa-text h2{
+	font-size: 50px;
+}
+.kawa-text p{
+	padding: 10px 0;
+	font-size: 20px;
+	width: 90%;
+	margin: auto;
+}
+.kawa-text a{
+	font-size: 20px;
+	padding: 10px 30px;
+	margin: 30px 0;
+}
+.kawa-bg-one img,
+.kawa-bg-two img{
+	display: none;
+}
+/* Mura section */
+.mura-area{
+	padding: 50px 0;
+}
+.mura-title p{
+	font-size: 20px;
+	padding: 10px 0 0;
+}
+.mura-title h3{
+	font-size: 40px;
+}
+/*Here Section*/
+.here-area{
+	padding: 50px 0;
+}
+.here-title h2{
+	font-size: 50px;
+}
+.here-title p{
+	padding: 20px 0;
+}
+.here-title input{
+	padding: 10px  80px  10px 20px;
+}
+.here-title a{
+	padding: 10px 30px;
+	margin-left: -30px;
+}
+.here-bg-one img,
+.here-bg-two img{
+	display: none;
+}
+
+/* Isotope section */
+.isotope-area{
+	padding: 50px 0;
+	background: #A66C6C;
+}
+.iso-product p{
+	width: 90%;
+}
+.isotope-btn{
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+}
+.isotope-btn button{
+	padding: 10px;
+	border: none;
+}
+/*Footer Section*/
+footer{
+	background: #777;
+	padding: 50px 0;
+}
+.inner-footer-logo{
+	margin: auto;
+}
+.inner-footer-logo p{
+	font-size: 24px;
+	color: #fff;
+	width: 90%;
+	padding: 30px 0;
+	text-align: center;
+	margin: auto;
+}
+.footer-logo img{
+	margin: auto;
+}
+.social-icon{
+	padding-bottom: 20px;
+}
+.social-icon ul{
+	padding: 0;
+	margin-bottom: 0;
+}
+.social-icon ul li{
+	margin: auto;
+}
+.footer-text-one,
+.footer-text-two{
+	text-align: center;
+}
+.footer-text-three{
+	text-align: center;
+	padding-top: 10px;
+}
+
+
+
+
+
+}
+
+@media(max-width:623px){
+
+/*Sushi Section*/
+.sushi-text h2{
+	font-size: 60px;
+	width: 100%;
+}
+
+/*Menu Section*/
+.menu-bg-one img{
+	position: absolute;
+	top: 65px;
+	left: 0;
+	width: 50%;
+}
+.menu-bg-two img{
+	position: absolute;
+	top: 90px;
+	right: 0;
+	width: 50%;
+}
+.menu-title h2{
+	font-size: 50px;
+}
+
+/*kawa Section*/
+.kawa-bg-one img{
+	width: 50%;
+}
+.kawa-text{
+	text-align: center;
+}
+/* Here section */
+.here-title input{
+	padding: 10px  70px  10px 20px;
+}
+/* Isotope section */
+.isotope-btn{
+	text-align: center;
+	display: block;
+}
+.isotope-btn button{
+	border: none;
+	padding: 10px 20px;
+	margin: 10px ;
+}
+
+
+
+
+
+
+}
+
+@media(max-width:490px){
+/* Isotope section */
+.isotope-img img{
+	margin-bottom: 25px;
+	margin: 20px auto;
+	max-width: 90%;
+}
+
+
+
+
+
+
+
+}
+
+@media(max-width:450px){
+/* Cute section */
+.cute-text h2{
+	font-size: 50px;
+}
+.cute-text p{
+	font-size: 20px;
+}
+/*Here Section*/
+.here-title input{
+	padding: 7px  16px  7px 10px;
+	display: block;
+	margin: auto;
+}
+::placeholder{
+	text-align: center;
+}
+.here-title a{
+	padding: 7px 20px;
+	font-size: 15px;
+	display: inline-block;
+	margin: 20px auto;
+}
+/* Sushi section */
+.sushi-area{
+	padding: 40px 0;
+}
+.sushi-text h2{
+	font-size: 40px;
+}
+.sushi-text p{
+	font-size: 20px;
+	padding: 30px 0;
+}
+
+
+
+
+
+}
